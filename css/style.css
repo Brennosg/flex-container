@@ -1,0 +1,12 @@
+.flex-container {
+    display: flex;
+    background: dodgerblue;
+    flex-wrap: wrap;
+}
+
+.flex-container > div {
+    background: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
